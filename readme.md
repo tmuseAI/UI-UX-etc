@@ -3,7 +3,7 @@
 ## HOW TO USE
 
 ```lua
-local NotifySystem = loadstring(game:HttpGet("YOUR_RAW_LINK_HERE"))()
+local NotifySystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/tmuseAI/UI-UX-etc/refs/heads/main/noti.lua"))()
 
 NotifySystem.Notify("Title", "Message", duration, "type")
 ```
