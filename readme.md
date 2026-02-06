@@ -21,5 +21,5 @@ NotifySystem.Notify("", "", 5, "success")
 NotifySystem.Notify("", "", 4, "warning")
 
 -- Error (đỏ)
-NotifySystem.Notify("", "", 5, "")
+NotifySystem.Notify("", "", 5, "error")
 ```
