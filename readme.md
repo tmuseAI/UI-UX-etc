@@ -20,6 +20,6 @@ NotifySystem.Notify("", "", 5, "success")
 -- Warning (yellow)
 NotifySystem.Notify("", "", 4, "warning")
 
--- Error (đỏ)
+-- Error (red)
 NotifySystem.Notify("", "", 5, "error")
 ```
